@@ -1,0 +1,69 @@
+*{
+ box-sizing: border-box;  
+ 
+ 
+}
+.home{
+    border: 1px solid red;
+    height: 500px;
+    width:100%;
+    /* width: 1440px;
+height: 896.56px; */
+}
+.nav_part{
+    border: 1px solid black;
+    display: flex;
+    flex-direction:column-reverse;
+    width: fit-content;
+    height: 100%;
+}
+.nav_part .line5{
+    width: 204.65px;
+    top: 562.75px;
+    left: 35px;
+    border: 1px;
+    rotate: -90 deg
+
+}
+
+.autography{
+    color: #000000;
+    margin-top: -466px;
+    margin-left: 219px;
+}
+.icon{
+    text-decoration: none;
+}
+
+.heading{
+    color: #333333;
+
+    margin-top: 13px;
+    margin-left: 219px;
+}
+
+.para_heading{
+    margin-top: 40px;
+    margin-left: 219px;
+}
+
+.headphone_img{
+    margin-top: -231px;
+    margin-left: 580px;
+    height: 404px;
+    width: 460px;
+}
+
+.buy_button{
+    margin-top: 0px;
+    margin-left: 219px;
+}
+
+
+.footer{
+    border: 1px solid blue;
+    height: 500px;
+    width:100%;
+    background-color: #333333;
+    ;
+}
